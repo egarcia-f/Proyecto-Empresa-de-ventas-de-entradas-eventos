@@ -5,6 +5,7 @@
 - dfrty
 - rtyr
 
-![Texto Alternativo](Downloads\Captura%de%pantalla%2026-01-03%193732.png)
+![Texto Alternativo](<C:\Users\Edgar G\Downloads\Captura de pantalla 2026-01-03 193732.png>)
 
 - serwer
+- act3
